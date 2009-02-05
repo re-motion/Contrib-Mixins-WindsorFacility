@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindsorFacility", "WindsorFacility\WindsorFacility.csproj", "{28C60703-BA72-4910-8395-C109CBADAF6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindsorFacility.Specs", "WindsorFacility.Specs\WindsorFacility.Specs.csproj", "{61C2A1D7-2A33-4022-B40A-AE4093E9B23C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28C60703-BA72-4910-8395-C109CBADAF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C60703-BA72-4910-8395-C109CBADAF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C60703-BA72-4910-8395-C109CBADAF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C60703-BA72-4910-8395-C109CBADAF6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61C2A1D7-2A33-4022-B40A-AE4093E9B23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C2A1D7-2A33-4022-B40A-AE4093E9B23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C2A1D7-2A33-4022-B40A-AE4093E9B23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C2A1D7-2A33-4022-B40A-AE4093E9B23C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
