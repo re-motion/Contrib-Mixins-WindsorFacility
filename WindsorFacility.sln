@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindsorFacility", "WindsorFacility\WindsorFacility.csproj", "{28C60703-BA72-4910-8395-C109CBADAF6A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindsorFacility.Specs", "WindsorFacility.Specs\WindsorFacility.Specs.csproj", "{61C2A1D7-2A33-4022-B40A-AE4093E9B23C}"
